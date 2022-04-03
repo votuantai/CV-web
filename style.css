@@ -80,4 +80,7 @@ header {
         width: 100%;
         padding: 0;
     }
+    .rightcolumn {
+        text-align: center;
+    }
 }
